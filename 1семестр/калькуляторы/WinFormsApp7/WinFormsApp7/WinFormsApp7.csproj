@@ -1,0 +1,53 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="obj\Debug\net6.0-windows\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" />
+    <Compile Include="obj\Debug\net6.0-windows\WinFormsApp7.AssemblyInfo.cs" />
+    <Compile Include="obj\Debug\net6.0-windows\WinFormsApp7.GlobalUsings.g.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="bin\Debug\net6.0-windows\WinFormsApp7.deps.json" />
+    <Content Include="bin\Debug\net6.0-windows\WinFormsApp7.runtimeconfig.json" />
+    <Content Include="obj\Debug\net6.0-windows\WinFormsApp7.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\Debug\net6.0-windows\WinFormsApp7.designer.deps.json" />
+    <Content Include="obj\Debug\net6.0-windows\WinFormsApp7.designer.runtimeconfig.json" />
+    <Content Include="obj\project.assets.json" />
+    <Content Include="obj\WinFormsApp7.csproj.nuget.dgspec.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\Debug\net6.0-windows\WinFormsApp7.dll" />
+    <None Include="bin\Debug\net6.0-windows\WinFormsApp7.exe" />
+    <None Include="bin\Debug\net6.0-windows\WinFormsApp7.pdb" />
+    <None Include="bin\Debug\WinFormsApp7.1.0.0.nupkg" />
+    <None Include="obj\Debug\net6.0-windows\apphost.exe" />
+    <None Include="obj\Debug\net6.0-windows\refint\WinFormsApp7.dll" />
+    <None Include="obj\Debug\net6.0-windows\ref\WinFormsApp7.dll" />
+    <None Include="obj\Debug\net6.0-windows\WinFormsApp7.AssemblyInfoInputs.cache" />
+    <None Include="obj\Debug\net6.0-windows\WinFormsApp7.assets.cache" />
+    <None Include="obj\Debug\net6.0-windows\WinFormsApp7.csproj.AssemblyReference.cache" />
+    <None Include="obj\Debug\net6.0-windows\WinFormsApp7.csproj.BuildWithSkipAnalyzers" />
+    <None Include="obj\Debug\net6.0-windows\WinFormsApp7.csproj.CoreCompileInputs.cache" />
+    <None Include="obj\Debug\net6.0-windows\WinFormsApp7.csproj.GenerateResource.cache" />
+    <None Include="obj\Debug\net6.0-windows\WinFormsApp7.dll" />
+    <None Include="obj\Debug\net6.0-windows\WinFormsApp7.Form1.resources" />
+    <None Include="obj\Debug\net6.0-windows\WinFormsApp7.Form2.resources" />
+    <None Include="obj\Debug\net6.0-windows\WinFormsApp7.GeneratedMSBuildEditorConfig.editorconfig" />
+    <None Include="obj\Debug\net6.0-windows\WinFormsApp7.genruntimeconfig.cache" />
+    <None Include="obj\Debug\net6.0-windows\WinFormsApp7.pdb" />
+    <None Include="obj\Debug\WinFormsApp7.1.0.0.nuspec" />
+    <None Include="obj\project.nuget.cache" />
+    <None Include="obj\WinFormsApp7.csproj.nuget.g.props" />
+    <None Include="obj\WinFormsApp7.csproj.nuget.g.targets" />
+  </ItemGroup>
+
+</Project>
